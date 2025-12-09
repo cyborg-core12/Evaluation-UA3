@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|c:\\users\\nacer\\onedrive\\documents\\projetua1_c#\\projetsda\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23663772-2D39-451F-94E3-F010D1B06207}|ProjetSDA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 403,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signin.cs",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Signin.cs",
+              "RelativeDocumentMoniker": "Signin.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Signin.cs",
+              "RelativeToolTip": "Signin.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:28:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Signin.cs",
+              "RelativeDocumentMoniker": "Signin.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Signin.cs [Design]",
+              "RelativeToolTip": "Signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:24:41.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\DBAccess.cs",
+              "RelativeDocumentMoniker": "DBAccess.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\DBAccess.cs",
+              "RelativeToolTip": "DBAccess.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswJAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:33:23.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:47:59.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:23:12.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:02:56.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA4wCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:13:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\nacer\\OneDrive\\Documents\\PROJETUA1_C#\\ProjetSDA\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:10:23.076Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

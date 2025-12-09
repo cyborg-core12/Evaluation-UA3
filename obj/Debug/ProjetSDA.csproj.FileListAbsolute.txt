@@ -1,0 +1,12 @@
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\bin\Debug\ProjetSDA.exe.config
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\bin\Debug\ProjetSDA.exe
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\bin\Debug\ProjetSDA.pdb
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.csproj.AssemblyReference.cache
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.Form1.resources
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.Properties.Resources.resources
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.csproj.GenerateResource.cache
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.csproj.CoreCompileInputs.cache
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.exe
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.pdb
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.Signin.resources
+C:\Users\nacer\OneDrive\Documents\PROJETUA1_C#\ProjetSDA\obj\Debug\ProjetSDA.Form2.resources
