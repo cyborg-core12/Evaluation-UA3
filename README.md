@@ -17,7 +17,22 @@
 
   - On a collaboré ensemble pour le projet sur teams ce projet a était fait avant l'UA3
 
-5 - <img width="943" height="508" alt="image" src="https://github.com/user-attachments/assets/a03eb3d1-22c3-4e34-be9e-e1816904886d" />
+5 - On va testert d'abord on crée un compte pour un nouveau employé 
+<img width="943" height="508" alt="image" src="https://github.com/user-attachments/assets/a03eb3d1-22c3-4e34-be9e-e1816904886d" />
+
+Ici on voit bien que l'utilisateur son compte a été ajouter a la base de données
+<img width="730" height="433" alt="Screenshot 2025-12-11 120322" src="https://github.com/user-attachments/assets/59b91c7b-711f-400c-a82b-d39d6a204ab3" />
+
+maintenant l'employer peut se connecter avec son nouveau compte : 
+<img width="464" height="305" alt="image" src="https://github.com/user-attachments/assets/982396e8-4a8f-4ab2-b14b-f13178e0382d" />
+
+puis il est direct dirigé vers la page ou il peut gérer les commandes des clients : 
+<img width="523" height="275" alt="image" src="https://github.com/user-attachments/assets/9f4c36fa-2b29-49d3-9cf6-c2cd20a3d47f" />
+
+
+
+
+
 
 
 
